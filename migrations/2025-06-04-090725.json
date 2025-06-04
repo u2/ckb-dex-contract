@@ -1,0 +1,13 @@
+{
+  "cell_recipes": [
+    {
+      "name": "dex-lock",
+      "tx_hash": "0x7a879924c9ebf3f6c0d697c86df0e68a07496f3a0526dff25cf6d4c6a8906132",
+      "index": 0,
+      "occupied_capacity": 1294200000000,
+      "data_hash": "0xc75195f969805c576ba95fbfbcb7d1ad1cd2991fef7cffc7e1f2bb9bb04b0f2d",
+      "type_id": "0x3c3ab92ebfcdfaf4246a961e7f7221a7f9d846eddba59af9d6a35983c6b73d65"
+    }
+  ],
+  "dep_group_recipes": []
+}
